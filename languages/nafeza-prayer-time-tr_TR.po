@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-12-28 20:56+0000\n"
+"PO-Revision-Date: 2023-08-08 23:23+0300\n"
+"Last-Translator: admin <free92.php@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Enable Notifications"
+msgstr "Bildirimleri Etkinleştir"
+
+msgid "Notification icon"
+msgstr "Bildirim simgesi"
+
+msgid "Upload Icon"
+msgstr "Simge Yükle"
+
+msgid "Title:"
+msgstr "Başlık:"
+
+msgid "FAJR"
+msgstr "Sabah"
+
+msgid "SUNRISE"
+msgstr "Güneş"
+
+msgid "DHUHR"
+msgstr "Öğle"
+
+msgid "ASR"
+msgstr "İkindi"
+
+msgid "MAGHRIB"
+msgstr "Akşam"
+
+msgid "ISHA"
+msgstr "Yatsı"
+
+msgid "IMSAK"
+msgstr "İmsak"
+
+msgid "Widget for Prayer Time"
+msgstr "Namaz Vakitleri için Bileşen"
+
+msgid "Prayer Times From Nafeza"
+msgstr "Namaz Vakitleri Nafeza Tarafından"
+
+msgid "Prayer Times"
+msgstr "Namaz Vakitleri"
+
+msgid "General settings"
+msgstr "Genel Ayarlar"
+
+msgid "Enable Imsak"
+msgstr "Imsak'ı etkinleştir"
+
+msgid "Calculation Method"
+msgstr "Hesaplama yöntemi"
+
+msgid "Calculation School"
+msgstr "Hesaplama Okulu"
+
+msgid "Fixed location"
+msgstr "Sabit konum"
+
+msgid ""
+"In case of deactivation, the location will be automatically determined by "
+"the client's ip"
+msgstr ""
+"Devre dışı bırakma durumunda, konum otomatik olarak müşterinin ip'si "
+"tarafından belirlenecektir"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Time difference"
+msgstr "Zaman farkı"
+
+msgid "minute"
+msgstr "dakika"
+
+msgid "Shafei"
+msgstr "Shafei"
+
+msgid "Hanafi"
+msgstr "Hanefi"
+
+msgid "Muslim World League"
+msgstr "Müslüman Dünya Ligi"
+
+msgid "Islamic Society of North America"
+msgstr "Kuzey Amerika İslam Cemiyeti"
+
+msgid "Egyptian General Authority of Survey"
+msgstr "Mısır Genel Anket Makamı"
+
+msgid "Umm Al-Qura University, Makkah"
+msgstr "Umm Al-Qura Üniversitesi, Mekke"
+
+msgid "University of Islamic Sciences"
+msgstr "İslam Bilimleri Üniversitesi"
+
+msgid "Karachi', 'Institute of Geophysics"
+msgstr "Karaçi, Jeofizik Enstitüsü"
+
+msgid "University of Tehran"
+msgstr "Tahran Üniversitesi"
+
+msgid "Gulf Region"
+msgstr "Körfez bölgesi"
+
+msgid "Kuwait"
+msgstr "Kuveyt"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "Majlis Ugama Islam Singapura, Singapore"
+msgstr "Meclis Ugama Islam Singapura, Singapur"
+
+msgid "Union Organization islamic de France"
+msgstr "Birlik Teşkilatı islamic de France"
+
+msgid "Directorate of Religious Affairs, Turkey"
+msgstr "Diyanet İşleri Başkanlığı, Turkey"
+
+msgid "Prayer Times Settings"
+msgstr "Namaz Vakitleri Ayarları"
+
+msgid "Time remaining for %s prayer : "
+msgstr "%s namazında kalan süre : "
+
+msgid "Time Format"
+msgstr "Saat Biçimi"
+
+msgid "Menu title"
+msgstr "Menu title"

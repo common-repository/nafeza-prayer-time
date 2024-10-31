@@ -1,0 +1,7 @@
+.nafez-prayer-time-widget{
+    width: 100%;
+}
+.nafez-prayer-time-widget tr th ,
+.nafez-prayer-time-widget tr td {
+    text-align: center;
+}

@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-12-28 20:51+0000\n"
+"PO-Revision-Date: 2023-08-08 23:22+0300\n"
+"Last-Translator: admin <free92.php@gmail.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Enable Notifications"
+msgstr "تفعيل الإشعارات"
+
+msgid "Notification icon"
+msgstr "أيقونة الإشعار"
+
+msgid "Upload Icon"
+msgstr "رفع أيقونة"
+
+msgid "Title:"
+msgstr "العنوان:"
+
+msgid "FAJR"
+msgstr "الفجر"
+
+msgid "SUNRISE"
+msgstr "الشروق"
+
+msgid "DHUHR"
+msgstr "الظهر"
+
+msgid "ASR"
+msgstr "العصر"
+
+msgid "MAGHRIB"
+msgstr "المغرب"
+
+msgid "ISHA"
+msgstr "العشاء"
+
+msgid "IMSAK"
+msgstr "الإمساك"
+
+msgid "Widget for Prayer Time"
+msgstr "ودجت لعرض أوقات الصلاة"
+
+msgid "Prayer Times From Nafeza"
+msgstr "أوقات الصلاة من نافذة"
+
+msgid "Prayer Times"
+msgstr "أوقات الصلاة"
+
+msgid "General settings"
+msgstr "الإعدادات العامة"
+
+msgid "Enable Imsak"
+msgstr "تفعيل الإمساك"
+
+msgid "Calculation Method"
+msgstr "طريقة الحساب"
+
+msgid "Calculation School"
+msgstr "المدرسة الحسابية"
+
+msgid "Fixed location"
+msgstr "موقع ثابت"
+
+msgid ""
+"In case of deactivation, the location will be automatically determined by "
+"the client's ip"
+msgstr "في حال إلغاء التفعيل سيتم تحديد الموقع تلقائيا حسب ip العميل"
+
+msgid "Latitude"
+msgstr "خط العرض"
+
+msgid "Longitude"
+msgstr "خط الطول"
+
+msgid "City"
+msgstr "المدينة"
+
+msgid "Country"
+msgstr "الدولة"
+
+msgid "Time difference"
+msgstr "فرق الوقت"
+
+msgid "minute"
+msgstr "دقيقة"
+
+msgid "Shafei"
+msgstr "شافعي"
+
+msgid "Hanafi"
+msgstr "حنفي"
+
+msgid "Muslim World League"
+msgstr "رابطة العالم الإسلامي"
+
+msgid "Islamic Society of North America"
+msgstr "الجمعية الإسلامية لأمريكا الشمالية"
+
+msgid "Egyptian General Authority of Survey"
+msgstr "الهيئة المصرية العامة للمساحة"
+
+msgid "Umm Al-Qura University, Makkah"
+msgstr "جامعة أم القرى، مكة المكرمة"
+
+msgid "University of Islamic Sciences"
+msgstr "جامعة العلوم الإسلامية"
+
+msgid "Karachi', 'Institute of Geophysics"
+msgstr "كراتشي \"، معهد الجيوفيزياء"
+
+msgid "University of Tehran"
+msgstr "جامعة طهران"
+
+msgid "Gulf Region"
+msgstr "منطقة الخليج"
+
+msgid "Kuwait"
+msgstr "الكويت"
+
+msgid "Qatar"
+msgstr "قطر"
+
+msgid "Majlis Ugama Islam Singapura, Singapore"
+msgstr "المجلس أوغاما إسلام سينغابورا، سنغافورة"
+
+msgid "Union Organization islamic de France"
+msgstr "منظمة الاتحاد الإسلامي في فرنسا"
+
+msgid "Directorate of Religious Affairs, Turkey"
+msgstr "مديرية الشؤون الدينية، تركيا"
+
+msgid "Prayer Times Settings"
+msgstr "إعدادات أوقات الصلاة"
+
+msgid "Time remaining for %s prayer : "
+msgstr "الوقت المتبقي لآذان %s : "
+
+msgid "Time Format"
+msgstr "تنسيق الوقت"
+
+msgid "Menu title"
+msgstr "عنوان القائمة"
